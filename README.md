@@ -7,4 +7,4 @@ Seasky-ODrive
 
 ## 注意：GPLV3协议严禁用于商业用途
 
-<img src = "./MyODrive/image/ODrive1.gif">
+<img src = "MyODrive/image/ODrive1.gif">
