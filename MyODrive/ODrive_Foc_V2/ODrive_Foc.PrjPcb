@@ -123,7 +123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XGLJIGHJ
 
 [Document6]
-DocumentPath=ODrive_Foc.OutJob
+DocumentPath=Drive_Foc.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137,11 +137,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XQJADEYG
 
-[GeneratedDocument1]
-DocumentPath=Drive_Foc 2021-3-8 16-29-00.WAS
+[Document7]
+DocumentPath=ODrive_Foc.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MRDQYFRW
 
 [Configuration1]
 Name=Sources

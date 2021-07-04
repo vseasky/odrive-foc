@@ -71,10 +71,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ELSLXPBU
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for AS5047\Design Rule Check - AS5047.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
