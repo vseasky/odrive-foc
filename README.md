@@ -1,4 +1,4 @@
-# ODrive-Foc-Ctr
+# ODrive-Foc
 
 ![](./MyODrive/image/ODrive0.jpg)
 
